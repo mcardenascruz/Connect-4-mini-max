@@ -1,4 +1,5 @@
-# Connect-4-mini-max
+# Connect-4-mini-max 
+This was a project done for school and for that was first done in pycharm before uploading into github and for that reason it was copy and pasted, hope that clarifies things.
 The most relevant algorithms used in the Connect-4 game are described in this section. Part of it is based in an excellent tutorial from Keith Galli.
 For the Connect-4 game the algorithms deserving major attention are:
 Algorithm to check the win in Connect 4.
